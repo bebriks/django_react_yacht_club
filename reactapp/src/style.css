@@ -355,7 +355,7 @@ body {
   border: none;
 
   /* Элемент скрыт в развернутой статье */
-  display:none;
+  display: none;
 }
 
 .more:hover {

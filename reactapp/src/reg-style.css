@@ -1,62 +1,62 @@
-body{
-    margin: 0;
-    padding: 0;
-    background-color: #e7ecee;
-    font-family: "Roboto", sans-serif;
-    font-size: 16px;
-    color: #163152;
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #e7ecee;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  color: #163152;
 }
 
-*{
-    margin: 0;
-    padding: 0;
+* {
+  margin: 0;
+  padding: 0;
 }
-p{
-    text-align: center;
-    margin-bottom: 30px;
+p {
+  text-align: center;
+  margin-bottom: 30px;
 }
 .logo {
-    width: fit-content;
-    margin: auto;
-    margin-bottom: 50px;
+  width: fit-content;
+  margin: auto;
+  margin-bottom: 50px;
 }
-.reg-window{
-    padding-top: 30px;
-    padding-bottom: 30px;
-    width: 400px;
-    height: 500px;
-    margin: 160px auto;
-    background-color: white;
-    border-radius: 5px;
+.reg-window {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  width: 400px;
+  height: 500px;
+  margin: 160px auto;
+  background-color: white;
+  border-radius: 5px;
 }
-.reg-form{
-    text-align: center;
+.reg-form {
+  text-align: center;
 }
-.reg-button{
-    width:306px;
-    height:40px;
-    background-color: #00c6bd;
-    border: none;
-    color: white;
-    border-radius: 5px;
-    margin-bottom: 30px;
+.reg-button {
+  width: 306px;
+  height: 40px;
+  background-color: #00c6bd;
+  border: none;
+  color: white;
+  border-radius: 5px;
+  margin-bottom: 30px;
 }
-.reg-button:hover{
-    opacity: 0.7;
+.reg-button:hover {
+  opacity: 0.7;
 }
-.reg-button:active{
-    opacity: 0.4;
+.reg-button:active {
+  opacity: 0.4;
 }
-.reg-button-container{
-    width:306px;
-    margin: 0 auto;
+.reg-button-container {
+  width: 306px;
+  margin: 0 auto;
 }
-input{
-    width: 300px;
-    height:40px;
-    border: 3px solid #163152;
-    color: #163152;
-    font-size: 20px;
-    border-radius: 5px;
-    margin-bottom: 20px;
+input {
+  width: 300px;
+  height: 40px;
+  border: 3px solid #163152;
+  color: #163152;
+  font-size: 20px;
+  border-radius: 5px;
+  margin-bottom: 20px;
 }
